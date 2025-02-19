@@ -16,5 +16,5 @@
 - MOD (WeoBuXCS):
 	+ Buff tốc độ của đạn, skeletion
 	+ Hạ máu skeleton còn 2
-	+ Thêm kỹ năng cho người chơi (Dash)
+	+ Thêm kỹ năng cho người chơi (Dash) (Like shit)
 	+ Thêm ô chỉ toạ độ
